@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Victor Torres
 
- I'm a masters student in Data Science at CUNY, expected to graduate in December 2025.  
+ I'm a Masters student in Data Science at CUNY, expected to graduate in December 2025.  
  Completed the Google Data Analytics Certification on Coursera, .and Full Stack Development with IBM 
  I enjoy exploring data to uncover meaningful insights that can support better decisions in business and society.
 
