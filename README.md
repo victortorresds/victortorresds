@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Victor Torres
 
-🎓 I'm a Master's student in Data Science at CUNY, expected to graduate in December 2025.  
-📊 Completed the Google Data Analytics Certification on Coursera, .and Full Stack Development with IBM 
-🔍 I enjoy exploring data to uncover meaningful insights that can support better decisions in business and society.
+ I'm a masters student in Data Science at CUNY, expected to graduate in December 2025.  
+ Completed the Google Data Analytics Certification on Coursera, .and Full Stack Development with IBM 
+ I enjoy exploring data to uncover meaningful insights that can support better decisions in business and society.
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - **Programming:** Python, R, SQL, Java  
 - **Python Libraries:** Pandas, NumPy, MatplotLib, Seaborn, Scikit-Learn  
@@ -16,7 +16,7 @@
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
 Here are some of the projects I’m working on or have completed:
 
@@ -37,7 +37,7 @@ Here are some of the projects I’m working on or have completed:
 
 ---
 
-## 📈 Portfolio Goals
+##  Portfolio Goals
 
 I'm using this GitHub space to:
 
@@ -47,9 +47,9 @@ I'm using this GitHub space to:
 
 ---
 
-## 🌐 Let's Connect
+##  Let's Connect
 
-📫 [LinkedIn](https://www.linkedin.com/in/vitugo)
-💬 Reach out if you'd like to collaborate or talk data!
+ [LinkedIn](https://www.linkedin.com/in/vitugo)
+ Reach out if you'd like to collaborate or talk data!
 
 ---
