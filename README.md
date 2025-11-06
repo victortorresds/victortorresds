@@ -23,7 +23,7 @@ Here are some of the projects I’m working on or have completed:
 - 📌 **Telco Customer Churn Analysis (R)**  
   Used classification models to identify key factors behind customer churn using a Telco dataset.
 
-- 📌 **Food Poverty in the U.S. (R)**  
+- 📌 **Food Poverty in the U.S. (Python)**  
   Investigated the state of food insecurity across regions using open data and data visualizations.
 
 - 📌 **IT Salaries by State (R)**  
