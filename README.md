@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Victor Torres
+# Hi, I'm Victor Torres
 
  I'm a Masters student in Data Science at CUNY, expected to graduate in December 2025.  
  Completed the Google Data Analytics Certification on Coursera, .and Full Stack Development with IBM 
@@ -8,7 +8,8 @@
 
 ##  Tools & Technologies
 
-- **Programming:** Python, R, SQL, Java  
+- **Programming:** Python, R, SQL, Java, C#
+- **Frameworks:** Spring, Djando, .NET  
 - **Python Libraries:** Pandas, NumPy, MatplotLib, Seaborn, Scikit-Learn  
 - **R Packages:** Tidyverse, GGplot2, RandomForest, e1071, caret, corrplot, MASS, scales  
 - **Data Visualization:** Tableau, ggplot2 
