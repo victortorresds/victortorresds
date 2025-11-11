@@ -9,7 +9,7 @@
 ##  Tools & Technologies
 
 - **Programming:** Python, R, SQL, Java, C#
-- **Frameworks:** Spring, Djando, .NET  
+- **Frameworks:** Spring, Django, .NET  
 - **Python Libraries:** Pandas, NumPy, MatplotLib, Seaborn, Scikit-Learn  
 - **R Packages:** Tidyverse, GGplot2, RandomForest, e1071, caret, corrplot, MASS, scales  
 - **Data Visualization:** Tableau, ggplot2 
