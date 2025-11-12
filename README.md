@@ -28,7 +28,7 @@ I'm a **Master's student in Data Science at CUNY** (graduating December 2025), p
 
 ### [**→ View My Complete Data Science Portfolio**](https://github.com/victortorresds/DataScience)
 
-**6 End-to-End Projects | $3M+ Projected Business Value**
+**End-to-End Projects**
 
 <table>
 <tr>
@@ -83,17 +83,12 @@ I'm a **Master's student in Data Science at CUNY** (graduating December 2025), p
 
 ## Technical Stack
 
-```python
-skills = {
-    "languages": ["Python", "R", "SQL", "Java", "C#"],
-    "data_science": ["Pandas", "NumPy", "Scikit-Learn", "TensorFlow"],
-    "visualization": ["Matplotlib", "Seaborn", "Plotly", "Tableau", "ggplot2"],
-    "ml_algorithms": ["Random Forest", "Neural Networks", "ARIMA", "SVM", "Clustering"],
-    "tools": ["Jupyter", "RStudio", "Git", "VS Code"],
-    "specialties": ["Predictive Modeling", "Time Series", "Feature Engineering", "A/B Testing"]
-}
-```
-
+- **Programming:** Python, R, SQL, Java, C#
+- **Frameworks:** Spring, Django, .NET  
+- **Python Libraries:** Pandas, NumPy, MatplotLib, Seaborn, Scikit-Learn  
+- **R Packages:** Tidyverse, GGplot2, RandomForest, e1071, caret, corrplot, MASS, scales  
+- **Data Visualization:** Tableau, ggplot2 
+- **Data Handling:** Jupyter, RStudio, Visual Studio Code
 ---
 
 ## GitHub Stats
@@ -164,27 +159,6 @@ I'm always open to discussing:
 
 ---
 
-##  Tools & Technologies
-
-- **Programming:** Python, R, SQL, Java, C#
-- **Frameworks:** Spring, Django, .NET  
-- **Python Libraries:** Pandas, NumPy, MatplotLib, Seaborn, Scikit-Learn  
-- **R Packages:** Tidyverse, GGplot2, RandomForest, e1071, caret, corrplot, MASS, scales  
-- **Data Visualization:** Tableau, ggplot2 
-- **Data Handling:** Jupyter, RStudio, Visual Studio Code
-
----
-
----
-
-##  Portfolio Goals
-
-I'm using this GitHub space to:
-
-- Share real-world, reproducible data science and analytics projects  
-- Practice good project structure, documentation, and version control  
-- Build a portfolio that highlights my growth and passion for working with data
-
 ---
 
 ##  Let's Connect
@@ -193,4 +167,3 @@ I'm using this GitHub space to:
  Reach out if you'd like to collaborate or talk data!
 
 ---
->>>>>>> d849dcde4649b7f9ce0dd2886b2f03a4f010729d
