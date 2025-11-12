@@ -1,6 +1,6 @@
 # Hi, I'm Victor Torres
 
-<<<<<<< HEAD
+
 **Data Scientist | Master's Student @ CUNY | Turning Data Into Impact**
 
 <div align="center">
@@ -134,8 +134,8 @@ skills = {
 ## Education & Certifications
 
  **Master of Science in Data Science** - CUNY (Dec 2025)  
- **Google Data Analytics Certificate** - Coursera  
- **IBM Full Stack Developer Certificate**
+ **Google Data Analytics Certificate** - Google  
+ **IBM Full Stack Developer Certificate** - IBM
 
 ---
 
@@ -153,17 +153,6 @@ I'm always open to discussing:
 -  [GitHub](https://github.com/victortorresds) - You're already here!
 
 ---
-
-## Quick Highlights
-
-```
- 6 Complete Data Science Projects
- $3M+ in Projected Business Value  
- Expertise in Python, R, SQL, ML
- 2,571 - 126,832 Records Analyzed
- Multiple Algorithms Mastered
- MS Data Science (Dec 2025)
-```
 
 ---
 
@@ -185,25 +174,6 @@ I'm always open to discussing:
 - **Data Handling:** Jupyter, RStudio, Visual Studio Code
 
 ---
-
-##  Featured Projects
-
-Here are some of the projects I’m working on or have completed:
-
-- 📌 **Telco Customer Churn Analysis (R)**  
-  Used classification models to identify key factors behind customer churn using a Telco dataset.
-
-- 📌 **Food Poverty in the U.S. (Python)**  
-  Investigated the state of food insecurity across regions using open data and data visualizations.
-
-- 📌 **IT Salaries by State (R)**  
-  Analyzed income disparities for IT professionals in different U.S. states and visualized trends.
-
-- 📌 **Gun Control Effectiveness in the U.S. (R)**  
-  Explored whether gun laws correlate with gun-related incidents across states using public datasets.
-
-- 📌 **[Coming Soon] EDA Project (Python)**  
-  Performing exploratory data analysis on a large open dataset using pandas and seaborn.
 
 ---
 
