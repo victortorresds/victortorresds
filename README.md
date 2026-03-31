@@ -1,6 +1,7 @@
 # Hi, I'm Victor Torres
 
-**Data Scientist | Master's Student @ CUNY | Turning Data Into Impact**
+**Data Scientist & Analyst | M.S. Data Science, CUNY '25 | 
+Turning data into business impact · Python · R · SQL · ML**
 
 <div align="center">
 
@@ -14,7 +15,7 @@
 
 ## About Me
 
-I'm a **Master's student in Data Science at CUNY** (graduating December 2025), passionate about transforming complex data into actionable insights that drive business decisions and social impact.
+I'm a **Master's graduate in Data Science at CUNY** (December 2025), passionate about transforming complex data into actionable insights that drive business decisions and social impact.
 
 - **Focus Areas:** Predictive Modeling, Econometrics, Causal Inference, Business Analytics
 - **Mission:** Solving real-world problems with data-driven solutions
