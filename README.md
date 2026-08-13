@@ -17,6 +17,8 @@ Turning data into business impact · Python · R · SQL · ML**
 
 I'm a **Master's graduate in Data Science at CUNY** (December 2025), passionate about transforming complex data into actionable insights that drive business decisions and social impact.
 
+With a solid background in Software Engineering, I can provide solid solutions in both data analytics and Application Development, cheout my Software Engineer portfolio https://github.com/vitugo23
+
 - **Focus Areas:** Predictive Modeling, Econometrics, Causal Inference, Business Analytics
 - **Mission:** Solving real-world problems with data-driven solutions
 - **Background:** Software Development + Trucking Industry + Data Science = Unique perspective
