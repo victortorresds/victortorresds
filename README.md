@@ -7,7 +7,7 @@ Turning data into business impact · Python · R · SQL · ML**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitugo)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-success?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victortorresds/DataScience)
-[![Capstone](https://img.shields.io/badge/Capstone-Tariff_Analysis-red?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victortorresds/Tariff-Analysis)
+[![Capstone](https://img.shields.io/badge/Capstone?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victortorresds/Tariff-Analysis)
 
 </div>
 
